@@ -1,0 +1,2 @@
+# SHT30
+WEMOS D1 Mini (ESP 8266) mit SHT30 Shield
